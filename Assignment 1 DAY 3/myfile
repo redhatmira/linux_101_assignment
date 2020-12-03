@@ -1,0 +1,11 @@
+Name		Rahul Kumar	
+Address 	City - Hajipur ,Pin - 844102 ,State - Bihar
+Contact 	+91 9546589049
+E-mail		rahulkumarom786@gmail.com	
+Blood_Group	"B+"
+
+
+#####single command to see line with name and blood group in my file
+
+			grep 'Name\|Blood_Group' myfile
+
